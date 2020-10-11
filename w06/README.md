@@ -9,7 +9,7 @@
  3) php 파일 만들기
 4. 샘플 데이터 베이스 가져오기 
 
-회고
+문제가 발생하거나 고민한 내용 + 해결 과정
 1. Atom 에서 php파일을 만들 때 Bitnami로 연결을 했던게 습관됐었는데 이번시간에 만든 파일에서는 Bitnami로 연결을 하지 않아도 됐었다.
 그런데 
 "404 FOUND The requested URL was not found on this server. Apache/2.4.41 (Ubuntu) Server at 192.168.111.129 Port 80" 
