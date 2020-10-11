@@ -5,4 +5,13 @@
 2. Open SSH : SSH 프로토콜을 이용하여 암호화된 통신세션을 컴퓨터 네트워크에 제공하는 컴퓨터 프로그램
 3. Visual Studio Code 사용법
  1) Remote SSH 설치
- 2) 
+ 2) Github와 연결하기
+ 3) php 파일 만들기
+4. 샘플 데이터 베이스 가져오기 
+
+회고
+1. Atom 에서 php파일을 만들 때 Bitnami로 연결을 했던게 습관됐었는데 이번시간에 만든 파일에서는 Bitnami로 연결을 하지 않아도 됐었다.
+그런데 
+
+
+과제 영상 - https://www.youtube.com/watch?v=FFSPtoTZxzg
