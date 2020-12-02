@@ -29,10 +29,10 @@ JSP를 실행하면, JSP 에서 생성된 서블릿이 실행됨
 
 - 문제가 발생하거나 고민한 내용   
 
-1.오라클 DB연결 테스트 PING이 Succeed로 되지 않았다.    
--> HOST:에 localhost가 적혀야하는데 내껀 계속 server라고 적혀있어서 오류가 난 것이었고 localhost로 바꿔주니까 ping Succeed로 바뀌어서 실행할 수 있었다.
+1.오라클 DB연결 테스트 PING이 Succeed로 되지 않았다.     
+-> HOST:에 localhost가 적혀야하는데 내껀 계속 server라고 적혀있어서 오류가 난 것이었고 localhost로 바꿔주니까 ping Succeed로 바뀌어서 실행할 수 있었다.   
 2. List.jsp를 실행시켰을 때 내가 추가한 데이터가 보이지 않음.   
--> Insert.jsp 에서 department값을 null로 저장해서 출력되지 않았다.
+-> Insert.jsp 에서 department값을 null로 저장해서 출력되지 않았다. 값을 추가해주니까 출력이 잘 되었다.   
 
 
 - 영상     
