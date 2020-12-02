@@ -35,5 +35,6 @@ JSP를 실행하면, JSP 에서 생성된 서블릿이 실행됨
 ->
 
 
-- 영상    
+- 영상     
+https://youtu.be/RMG_qX0F29w
 
