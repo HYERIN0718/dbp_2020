@@ -14,8 +14,8 @@ Documents에서는 key값과 value값으로 저장된다는 것을 배웠다.
 <img src="https://user-images.githubusercontent.com/70850937/102177465-f80e0280-3ee6-11eb-94d2-51cfd3d84bfd.png" width="90%"></img>
 
 
-교수님 강의 보니까 compass는 gui를 통해 코딩하지 않고 버튼으로 수정, 삭제가 가능하게 한 프로그램인거 같다.   
-설치하지 않아도 ,, 과제 수행을 잘 했고 강의를 잘 들었다.   
+compass는 gui를 통해 코딩하지 않고 버튼으로 수정, 삭제가 가능하게 한 프로그램인거 같다.   
+설치하지 않아도 과제 수행을 잘 했고 강의를 잘 들었다.   
 해결과정은 찾지 못했지만 내 노트북을 수리해보기로 했다.   
 
 :open_file_folder:회고(+,-,!)
