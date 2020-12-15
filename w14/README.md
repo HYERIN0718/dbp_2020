@@ -30,4 +30,4 @@ compass설치를 기다리느라 노트북을 두 세시간 정도 켜놓았었�
 
 :open_file_folder:과제 영상 링크
 --------------
-:link: https://youtu.be/OfqiffQjHz8
+:link: https://youtu.be/uwucaJp1pms
